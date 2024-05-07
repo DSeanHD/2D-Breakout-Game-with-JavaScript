@@ -20,7 +20,7 @@ var brickOffsetLeft = 30;
 var score = 0;
 var lives = 3;
 
-// Variables and loop used to initialize th bricks
+// Variables and loop used to initialize the bricks
 var bricks = [];
 for (var c = 0; c < brickColumnCount; c++) {
     bricks[c] = [];
